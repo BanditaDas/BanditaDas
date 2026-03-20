@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bandita Das</h1>
+<h3 align="center">Frontend Developer </h3>
 
-<!--
-**BanditaDas/BanditaDas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💫 About Me
+- 🌱 Learning and improving in **React, JavaScript, and UI/UX**
+- 💡 Interested in building **clean, modern, responsive web apps*
+- ⚡ Fun fact: I turn coffee ☕ into code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- 💻 HTML | CSS | JavaScript  
+- ⚛️ React.js  
+- 🎨 Tailwind CSS  
+- 🔧 Git & GitHub  
+
+---
+
+## 🌐 Connect With Me
+- 💼 Linkedin: https://www.linkedin.com/in/bandita-das-74bb58292/
+- 💌 Email: dbandita362@gmail.com
+
+---
