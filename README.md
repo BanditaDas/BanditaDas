@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bandita Das</h1>
-<h3 align="center">Frontend Developer </h3>
+<h3 align="center">Frontend Developer | React | UI/UX Focused  </h3>
 
 ---
 
