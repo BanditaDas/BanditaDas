@@ -14,6 +14,8 @@
 - 💻 HTML | CSS | JavaScript  
 - ⚛️ React.js  
 - 🎨 Tailwind CSS  
+- 🎞️ GSAP (Animations)  
+- ✨ UI/UX Animations & Microinteractions  
 - 🔧 Git & GitHub  
 
 ---
