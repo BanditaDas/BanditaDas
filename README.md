@@ -21,7 +21,7 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 Linkedin: https://www.linkedin.com/in/bandita-das-74bb58292/
+- 💼 Linkedin: https://www.linkedin.com/in/banditadas-dev
 - 💌 Email: dbandita362@gmail.com
 
 ---
