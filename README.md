@@ -5,7 +5,7 @@
 
 ## 💫 About Me
 - 🌱 Learning and improving in **React, JavaScript, and UI/UX**
-- 💡 Interested in building **clean, modern, responsive web apps*
+- 💡 Interested in building *clean, modern, responsive web apps*
 - ⚡ Fun fact: I turn coffee ☕ into code
 
 ---
@@ -22,6 +22,7 @@
 
 ## 🌐 Connect With Me
 - 💼 Linkedin: https://www.linkedin.com/in/banditadas-dev
+- 🌐 Portfolio: https://portfolio-six-theta-37.vercel.app
 - 💌 Email: dbandita362@gmail.com
 
 ---
