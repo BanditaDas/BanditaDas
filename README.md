@@ -11,18 +11,21 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 HTML | CSS | JavaScript  
-- ⚛️ React.js  
-- 🎨 Tailwind CSS  
-- 🎞️ GSAP (Animations)  
-- ✨ UI/UX Animations & Microinteractions  
-- 🔧 Git & GitHub  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,vite,nodejs,java,python&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSAP-Animation-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Locomotive%20Scroll-Smooth%20Scroll-black?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 Linkedin: https://www.linkedin.com/in/banditadas-dev
-- 🌐 Portfolio: https://portfolio-six-theta-37.vercel.app
+- 💼 LinkedIn: [banditadas-dev](https://www.linkedin.com/in/banditadas-dev)
+- 🌐 Portfolio: [My Portfolio](https://portfolio-six-theta-37.vercel.app)
 - 💌 Email: dbandita362@gmail.com
 
 ---
